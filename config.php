@@ -3,8 +3,10 @@
 *
 *	Plik Konfiguracyjny do Aplikacji Admin Live Status (na potrzeby MPC Forum)
 *
-* 	Data Ostatniej Edycji: 09.12.2016 - v1.0
-*	Autor: @Pantoflarzek (http://www.mpcforum.pl/user/1419952-pantoflarzek/)
+* 	Data Ostatniej Edycji: 09.12.2016r. - v1.0
+*	Autor: @Pantoflarz (https://tsforum.pl/uzytkownik/444-pantoflarz/)
+*
+*	Aktualizacja headerów: 12.05.2018r.
 *
 **/
 
