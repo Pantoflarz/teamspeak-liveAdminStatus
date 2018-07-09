@@ -4,5 +4,6 @@ Aplikacja pod serwery głosowe TeamSpeak 3, która wpisuje status osoby podanej 
 
 Wymagania -
 
-  min. PHP 7.0
-  połączenie query do serwera TS3
+      min. PHP 7.0
+  
+      połączenie query do serwera TS3
